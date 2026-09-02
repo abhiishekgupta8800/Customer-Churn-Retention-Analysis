@@ -53,7 +53,10 @@ The objective is to identify key factors contributing to customer churn, underst
 ## 📊 Dashboard
 
 ![Customer Churn Dashboard](Dashboard/Customer_Churn_Dashboard.png)  
-## 👤 Author<img width="670" height="377" alt="Customer_Churn_Retention_Analysis.png" src="https://github.com/user-attachments/assets/3d16017e-e733-4c2c-9a3f-52afbd482f73" />
+<img width="670" height="377" alt="Customer_Churn_Retention_Analysis.png" src="https://github.com/user-attachments/assets/3d16017e-e733-4c2c-9a3f-52afbd482f73" />
+
+
+
 
 
 ## 📁 Project Files
@@ -63,7 +66,7 @@ The objective is to identify key factors contributing to customer churn, underst
 - `Telco_Churn.xlsx` – Dataset
 
 
-
+## 👤 Author
 Abhishek Gupta  
 
 Aspiring Data Analyst
